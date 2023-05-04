@@ -20,5 +20,5 @@ git clone https://github.com/OnlyFalopas/falopas-painel
 
 cd falopas-painel
 
-python3 falopas-painel.py
+python3 main.py
 ```
